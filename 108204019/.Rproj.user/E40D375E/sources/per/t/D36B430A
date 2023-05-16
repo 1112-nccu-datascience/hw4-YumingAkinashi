@@ -1,0 +1,28 @@
+{
+    "id": "D36B430A",
+    "path": null,
+    "project_path": null,
+    "type": "object_explorer",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1684228386580.0,
+    "source_on_save": false,
+    "relative_order": 6,
+    "properties": {
+        "id": "fafbb3a1fd88481a88e78fcf04dc444f",
+        "name": "ir.pca",
+        "title": "ir.pca",
+        "language": "R",
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 7166106801675903021,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1684228386580,
+    "read_only": false,
+    "read_only_alternatives": []
+}

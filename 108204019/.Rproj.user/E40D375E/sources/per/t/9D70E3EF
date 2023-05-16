@@ -1,0 +1,28 @@
+{
+    "id": "9D70E3EF",
+    "path": null,
+    "project_path": null,
+    "type": "object_explorer",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1684230040738.0,
+    "source_on_save": false,
+    "relative_order": 6,
+    "properties": {
+        "id": "be3180ced0404ec392ce2720c2e4428f",
+        "name": "ir.pca",
+        "title": "ir.pca",
+        "language": "R",
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1709058692232,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1684230040738,
+    "read_only": false,
+    "read_only_alternatives": []
+}
